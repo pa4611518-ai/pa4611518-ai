@@ -1,5 +1,3 @@
-Paulo
-
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=190&section=header&text=PAULO&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPMENT%20%7C%20ARTIFICIAL%20INTELLIGENCE&descAlignY=58&descSize=14" width="100%" />Desenvolvimento Web · Inteligência Artificial · Produtos Digitais
 
 <br/><a href="https://github.com/pa4611518-ai">
