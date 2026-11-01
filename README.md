@@ -1,59 +1,61 @@
 Paulo
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=180&section=header&text=Paulo&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvimento%20Web%20%7C%20Intelig%C3%AAncia%20Artificial&descAlignY=58&descSize=16" width="100%" />DESENVOLVIMENTO WEB · INTELIGÊNCIA ARTIFICIAL · PRODUTOS DIGITAIS
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=190&section=header&text=PAULO&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPMENT%20%7C%20ARTIFICIAL%20INTELLIGENCE&descAlignY=58&descSize=14" width="100%" />Desenvolvimento Web · Inteligência Artificial · Produtos Digitais
 
-<p>
-  <a href="https://github.com/pa4611518-ai">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://vercel.com">
-    <img src="https://img.shields.io/badge/Vercel-Deploy-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  </a>
-</p></div>---
+<br/><a href="https://github.com/pa4611518-ai">
+  <img src="https://img.shields.io/badge/GitHub-0969DA?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://vercel.com">
+  <img src="https://img.shields.io/badge/Vercel-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</a></div>---
 
-◈ 01 — Apresentação
+01 — PERFIL
 
-Sou estudante de tecnologia e desenvolvedor em formação. Meu interesse está na criação de aplicações, no desenvolvimento web e nas possibilidades da inteligência artificial.
+Sou estudante de tecnologia, com interesse em desenvolvimento de software, aplicações web e inteligência artificial.
 
-Tenho buscado aprender programação de forma prática, desenvolvendo projetos próprios e conhecendo as ferramentas utilizadas no processo de criação de software.
+Tenho dedicado meus estudos à programação e à construção de projetos próprios. Gosto de entender como as tecnologias funcionam, explorar diferentes ferramentas e transformar ideias em aplicações.
 
-Este perfil reúne meus estudos, experimentos e projetos em desenvolvimento.
+Este perfil reúne meu trabalho, meus estudos e os projetos que desenvolvo ao longo dessa trajetória.
 
 ---
 
-⌘ 02 — Tecnologias e ferramentas
+02 — TECNOLOGIAS
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vercel&theme=dark" alt="Tecnologias e ferramentas"/>
-</div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vercel&theme=dark" alt="Tecnologias e ferramentas"/></div>---
 
-◎ 03 — Foco de estudo
+03 — FOCO ATUAL
 
-Área| Estudos
-Desenvolvimento web| HTML, CSS e JavaScript
-Programação| Lógica e construção de aplicações
+Área| Direcionamento
+Front-end| HTML, CSS e JavaScript
+Programação| Lógica e desenvolvimento de aplicações
 Versionamento| Git e GitHub
-Deploy| Vercel e publicação de projetos
-Inteligência artificial| Ferramentas, aplicações e integração com software
+Publicação| Vercel e deploy de projetos
+Inteligência artificial| Aplicações e integração com software
 
 ---
 
-▤ 04 — Projetos
+04 — PROJETOS
 
-Tenho interesse em desenvolver aplicações que resolvam problemas e transformem ideias em produtos funcionais.
+Utilizo projetos próprios para colocar em prática o que estudo e ampliar minha experiência com desenvolvimento.
 
-Os repositórios deste perfil reúnem meus projetos, experimentos e estudos práticos. Cada desenvolvimento representa uma oportunidade de aplicar conhecimentos e aprimorar minha forma de programar.
+Tenho interesse em aplicações web, ferramentas digitais e soluções que utilizam inteligência artificial.
 
----
-
-↗ 05 — Direção profissional
-
-Meu objetivo é construir uma formação sólida em desenvolvimento de software, aprofundar meus conhecimentos em tecnologias web e explorar a integração entre programação e inteligência artificial.
-
-Quero desenvolver soluções próprias, compreender cada etapa da construção de um produto digital e evoluir por meio de projetos reais.
+Os repositórios deste perfil apresentam parte desse processo, desde experimentos até projetos em desenvolvimento.
 
 ---
 
-<div align="center"><a href="https://github.com/pa4611518-ai">
-  <img src="https://img.shields.io/badge/PAULO-Visite%20meu%20GitHub-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Visite meu GitHub"/>
-</a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=100&section=footer" width="100%" /></div>
+05 — OBJETIVOS
+
+Meu objetivo é aprofundar meus conhecimentos em desenvolvimento de software e construir experiência na criação de aplicações completas.
+
+Quero explorar novas tecnologias, desenvolver produtos digitais e aprender a transformar problemas em soluções bem estruturadas.
+
+---
+
+<div align="center">PAULO
+Desenvolvimento contínuo. Projetos em evolução.
+
+<br/><a href="https://github.com/pa4611518-ai">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Explore meus projetos"/>
+</a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=110&section=footer" width="100%"/></div>
