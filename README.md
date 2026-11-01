@@ -1,6 +1,7 @@
 Olá! Eu sou o Paulo 👋
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=180&section=header&text=Paulo&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvimento%20Web%20%7C%20Intelig%C3%AAncia%20Artificial&descAlignY=58&descSize=16" width="100%" />Desenvolvedor em formação | Tecnologia, IA e produtos digitais
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=180&section=header&text=Paulo&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvimento%20Web%20%7C%20Intelig%C3%AAncia%20Artificial&descAlignY=58&descSize=16" width="100%" />Desenvolvedor em formação | Desenvolvimento Web, Inteligência Artificial e Produtos Digitais
 
 <p>
   <a href="https://github.com/pa4611518-ai">
@@ -9,52 +10,53 @@ Olá! Eu sou o Paulo 👋
   <a href="https://vercel.com">
     <img src="https://img.shields.io/badge/Vercel-Deploy-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   </a>
-</p></div>---
+</p>
+</div>---
 
 👨‍💻 Sobre mim
 
-Sou um desenvolvedor em formação, interessado em tecnologia, programação e inteligência artificial.
+Sou estudante de tecnologia e desenvolvedor em formação. Tenho interesse em programação, desenvolvimento de aplicações e inteligência artificial.
 
-Atualmente, estou estudando desenvolvimento web e explorando como utilizar a IA para criar soluções digitais, aplicações e produtos SaaS.
+Gosto de explorar novas ferramentas, entender como os sistemas funcionam e colocar ideias em prática por meio de projetos próprios.
 
-Meu objetivo é evoluir constantemente, desenvolver projetos reais e transformar ideias em soluções úteis.
+Atualmente, estou construindo minha base em desenvolvimento web e ampliando meus conhecimentos para criar soluções digitais cada vez mais completas.
 
-- 🌐 Estudando desenvolvimento web.
-- 🤖 Explorando inteligência artificial.
-- 💻 Aprendendo a desenvolver aplicações.
-- 🚀 Estudando Git, GitHub e deploy com Vercel.
-- 📚 Sempre buscando novos conhecimentos.
+- Desenvolvimento de aplicações web.
+- Programação e resolução de problemas.
+- Inteligência artificial aplicada à tecnologia.
+- Criação e desenvolvimento de produtos digitais.
+- Versionamento de código e publicação de projetos.
 
 ---
 
 🛠️ Tecnologias e ferramentas
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vercel&theme=dark" alt="Tecnologias e ferramentas"/></div>---
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vercel&theme=dark" alt="Tecnologias e ferramentas"/>
+</div>---
 
-📚 Atualmente estudando
+📚 Em desenvolvimento
 
-- HTML e estruturação de páginas.
-- CSS e desenvolvimento de interfaces.
-- JavaScript e lógica de programação.
-- Git e GitHub para versionamento.
-- Vercel para publicação e hospedagem.
-- Inteligência artificial aplicada ao desenvolvimento.
+Meu aprendizado é direcionado à construção de uma base técnica consistente, com foco em:
 
----
-
-📊 Estatísticas do GitHub
-
-<div align="center"><img src="https://github-stats-extended.vercel.app/api?username=pa4611518-ai&show_icons=true&title_color=00C853&icon_color=0969DA&text_color=FFFFFF&bg_color=0D1117&hide_border=true" width="48%" alt="Estatísticas do GitHub"/><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pa4611518-ai&layout=compact&title_color=00C853&text_color=FFFFFF&bg_color=0D1117&hide_border=true" width="48%" alt="Linguagens mais utilizadas"/><img src="https://streak-stats.demolab.com?user=pa4611518-ai&background=0D1117&ring=00C853&fire=0969DA&currStreakLabel=00C853&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" width="70%" alt="Sequência de contribuições"/></div>---
-
-🎯 Meu objetivo
-
-Construir uma base sólida em programação, aprender a trabalhar com inteligência artificial e desenvolver soluções digitais cada vez melhores.
-
-Aprender, construir, evoluir e inovar. 🚀
+- HTML: estrutura e organização de páginas web.
+- CSS: criação de interfaces e layouts responsivos.
+- JavaScript: lógica de programação e funcionalidades.
+- Git e GitHub: controle de versão e gerenciamento de projetos.
+- Vercel: publicação, hospedagem e deploy de aplicações.
+- Inteligência artificial: exploração e integração de recursos de IA em projetos.
 
 ---
 
-<div align="center">Obrigado por visitar meu perfil!
+🎯 Objetivos
+
+Quero desenvolver a capacidade de transformar ideias em aplicações funcionais, aprofundar meus conhecimentos em programação e explorar o potencial da inteligência artificial.
+
+Meu foco é construir projetos próprios, aprender com cada etapa do desenvolvimento e evoluir tecnicamente com consistência.
+
+---
+
+<div align="center">Obrigado por conhecer meu trabalho!
 
 <a href="https://github.com/pa4611518-ai">
   <img src="https://img.shields.io/badge/Visite%20meu%20GitHub-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Visite meu GitHub"/>
