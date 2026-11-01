@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Paulo 👋
 
-<!--
-**pa4611518-ai/pa4611518-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em IA, Desenvolvimento Web e SaaS.
 
-Here are some ideas to get you started:
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- IA aplicada ao desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+
+### Codex Professional Video Editor
+Skill para edição profissional de vídeos com IA.
+➡️ https://github.com/pa4611518-ai/codex-professional-video-editor-
+
+## Objetivo
+
+Construir produtos digitais, automações com IA e projetos publicados na Vercel.
+
+## Contato
+
+- GitHub: https://github.com/pa4611518-ai
