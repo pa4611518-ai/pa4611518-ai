@@ -1,6 +1,6 @@
 Paulo
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=180&section=header&text=Paulo&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvimento%20Web%20%7C%20Intelig%C3%AAncia%20Artificial&descAlignY=58&descSize=16" width="100%" />Desenvolvimento Web · Inteligência Artificial · Produtos Digitais
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=180&section=header&text=Paulo&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvimento%20Web%20%7C%20Intelig%C3%AAncia%20Artificial&descAlignY=58&descSize=16" width="100%" />DESENVOLVIMENTO WEB · INTELIGÊNCIA ARTIFICIAL · PRODUTOS DIGITAIS
 
 <p>
   <a href="https://github.com/pa4611518-ai">
@@ -11,19 +11,23 @@ Paulo
   </a>
 </p></div>---
 
-Apresentação
+◈ 01 — Apresentação
 
 Sou estudante de tecnologia e desenvolvedor em formação. Meu interesse está na criação de aplicações, no desenvolvimento web e nas possibilidades da inteligência artificial.
 
 Tenho buscado aprender programação de forma prática, desenvolvendo projetos próprios e conhecendo as ferramentas utilizadas no processo de criação de software.
 
-Este perfil é o espaço onde registro essa trajetória e compartilho parte do que venho desenvolvendo.
+Este perfil reúne meus estudos, experimentos e projetos em desenvolvimento.
 
-Tecnologias e ferramentas
+---
+
+⌘ 02 — Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vercel&theme=dark" alt="Tecnologias e ferramentas"/>
-</div>Foco de estudo
+</div>---
+
+◎ 03 — Foco de estudo
 
 Área| Estudos
 Desenvolvimento web| HTML, CSS e JavaScript
@@ -32,13 +36,17 @@ Versionamento| Git e GitHub
 Deploy| Vercel e publicação de projetos
 Inteligência artificial| Ferramentas, aplicações e integração com software
 
-Projetos
+---
+
+▤ 04 — Projetos
 
 Tenho interesse em desenvolver aplicações que resolvam problemas e transformem ideias em produtos funcionais.
 
 Os repositórios deste perfil reúnem meus projetos, experimentos e estudos práticos. Cada desenvolvimento representa uma oportunidade de aplicar conhecimentos e aprimorar minha forma de programar.
 
-Direção profissional
+---
+
+↗ 05 — Direção profissional
 
 Meu objetivo é construir uma formação sólida em desenvolvimento de software, aprofundar meus conhecimentos em tecnologias web e explorar a integração entre programação e inteligência artificial.
 
