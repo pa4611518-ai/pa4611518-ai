@@ -1,4 +1,5 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:7C3AED&height=190&section=header&text=PAULO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEVELOPMENT%20%7C%20AI%20%7C%20SAAS&descAlignY=60&descSize=16" width="100%" alt="Banner Paulo"/>Olá, eu sou Paulo! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:7C3AED&height=190&section=header&text=PAULO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEVELOPMENT%20%7C%20AI%20%7C%20SAAS&descAlignY=60&descSize=16" width="100%" alt="Banner Paulo"/>Olá, eu sou Paulo! 👋
 
 Desenvolvedor em formação | Tecnologia | Inteligência Artificial
 
@@ -19,22 +20,20 @@ Estudando programação e criando projetos digitais. Meu objetivo é transformar
 
 ⚙️ Tecnologias e ferramentas
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vercel&theme=dark" alt="Tecnologias"/></div>🚀 Projetos em destaque
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vercel&theme=dark" alt="Tecnologias"/>
+</div>📊 Estatísticas do GitHub
 
-🎬 Codex Professional Video Editor
-
-Projeto de uma ferramenta voltada a fluxos profissionais de edição de vídeo.
-
-""Ver projeto" (https://img.shields.io/badge/ACESSAR%20PROJETO-238636?style=for-the-badge&logo=github)" (https://github.com/pa4611518-ai/codex-professional-video-editor-)
-
-📊 Estatísticas do GitHub
-
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=pa4611518-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas GitHub"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa4611518-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/><img src="https://streak-stats.demolab.com?user=pa4611518-ai&theme=tokyonight&hide_border=true" width="70%" alt="Contribuições"/></div>---
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pa4611518-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa4611518-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+  <img src="https://streak-stats.demolab.com?user=pa4611518-ai&theme=tokyonight&hide_border=true" width="70%" alt="Contribuições"/>
+</div>---
 
 📫 Contato
 
 - GitHub: "@pa4611518-ai" (https://github.com/pa4611518-ai)
 
-<div align="center">Transformando ideias em projetos, um passo de cada vez. 💻
-
+<div align="center">
+  Transformando ideias em projetos, um passo de cada vez. 💻
 </div>
