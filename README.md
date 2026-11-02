@@ -6,9 +6,9 @@
 
 I’m focused on building **scalable products**, **SaaS platforms**, and **high-performance web systems**.
 
-I’m deeply focused on **software engineering, architecture, performance, clean code, and business-driven solutions**.
+I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-I’m also exploring **Artificial Intelligence** as a tool to enhance software development and create innovative digital solutions.
+I’m continuously developing my knowledge of **software development, SaaS, and technology entrepreneurship**.
 
 ---
 
@@ -24,14 +24,14 @@ I’m also exploring **Artificial Intelligence** as a tool to enhance software d
 
 ## 🧠 What I do
 
-- 💻 Web development & modern applications
-- 🏗️ Software architecture & system design
-- 🚀 SaaS platforms & scalable products
-- ⚡ Performance & code quality
-- 🔐 APIs, security & authentication
-- 💳 Payment systems & business logic
-- 🤖 Artificial Intelligence in software development
-- 🌐 Digital products & web solutions
+- 🏗️ SaaS & scalable systems
+- ⚡ Performance optimization
+- 🧩 Clean architecture & system design
+- 🔐 Secure APIs & authentication
+- 💳 Payments, subscriptions & business logic
+- 🔄 Automation & integrations
+- 📊 Dashboards & analytics
+- 🌐 Web applications & digital products
 
 ---
 
@@ -58,10 +58,10 @@ I’m also exploring **Artificial Intelligence** as a tool to enhance software d
 
 ## 🚀 Philosophy
 
-> _"Great software is built with purpose.  
-> Focus on quality, build scalable solutions, and turn ideas into real value."_
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
 
 ---
 
 ⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and new ideas
+🤝 Always open to collaborations, partnerships, and cool ideas
