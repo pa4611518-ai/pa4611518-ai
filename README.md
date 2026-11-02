@@ -1,54 +1,65 @@
-Hi 👋, I'm Paulo
 
-🚀 Aspiring Software Developer | AI-Powered Development | Web & SaaS
+# Hi 👋, I'm Paulo
+
+### 🚀 Aspiring Software Developer | AI-Powered Development
 
 🇧🇷 Brazil
 
-I want to turn ideas into real digital products through programming and Artificial Intelligence.
+> **Building ideas into real digital products through code and Artificial Intelligence.**
 
-I'm focused on learning software development, building websites, applications, and systems, and understanding how technology can solve real problems.
+I'm passionate about technology and software development. I focus on learning how to build websites, applications, systems, and digital products by combining programming fundamentals with AI-powered tools.
 
-My goal is to combine strong programming fundamentals with AI-powered development to create useful and reliable products.
-
----
-
-🌐 Where to find me
-
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/pa4611518-ai)
+My goal is to become a software developer capable of turning ideas into practical, reliable, and useful solutions.
 
 ---
 
-🧠 What I do
+## 🌐 Where to find me
 
-- 💻 Web Development: Learning to build modern and responsive websites.
-- 🤖 AI-Powered Development: Using AI to support the creation of software and digital products.
-- 🧩 Software Development: Developing programming skills and understanding how complete systems work.
-- 🚀 SaaS & Digital Products: Exploring ideas and building solutions with real-world applications.
-- 📚 Continuous Learning: Improving through practice, projects, and new technologies.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pa4611518-ai)
 
 ---
 
-🛠️ Tech Stack
+## 💡 What I do
 
-Frontend
+**Web Development**
 
-""HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" (https://developer.mozilla.org/en-US/docs/Web/HTML)
-""CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" (https://developer.mozilla.org/en-US/docs/Web/CSS)
-""JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+Learning to create modern, responsive, and functional websites.
 
-Development Tools
+**AI-Powered Development**
 
-""VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)" (https://code.visualstudio.com/)
-""Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" (https://git-scm.com/)
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/)
+Exploring how Artificial Intelligence can help build software, applications, and digital products.
 
-Deployment
+**Software Development**
 
-""Vercel" (https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)" (https://vercel.com/)
+Developing programming fundamentals and learning how complete systems are designed and built.
+
+**SaaS & Digital Products**
+
+Exploring ideas and creating digital solutions that can solve real-world problems.
 
 ---
 
-📚 Currently Learning
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Development Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Deployment
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📚 Currently Learning
 
 - Programming logic and fundamentals
 - HTML, CSS, and JavaScript
@@ -58,22 +69,21 @@ Deployment
 
 ---
 
-🎯 Future Goals
+## 🎯 Future Goals
 
 - Study Software Engineering.
-- Become a skilled software developer.
 - Build complete websites, systems, and applications.
-- Create SaaS platforms and useful digital products.
-- Master programming while exploring the potential of Artificial Intelligence.
+- Develop useful SaaS platforms and digital products.
+- Strengthen my programming skills.
+- Combine software engineering with Artificial Intelligence.
 
 ---
 
-🚀 Philosophy
+## 💭 My Philosophy
 
-«"Technology turns ideas into possibilities.
-Programming turns those possibilities into real solutions."»
+> **"Great software starts with curiosity, grows through learning, and becomes real through building."**
 
-Learn. Build. Improve. Repeat.
+**Learn. Build. Improve. Repeat.**
 
 ---
 
