@@ -1,14 +1,14 @@
 
 # Hi 👋, I'm Paulo
 
-🚀 **Aspiring Software Developer | Software Engineering** 
-🇧🇷 **Brazil**
+🚀 **Aspiring Software Developer | Software Engineering**  
+🇧🇷 Brazil
 
-I’m working toward building **scalable products**, **SaaS platforms**, and **high-performance web systems**.
+I’m focused on building **scalable products**, **SaaS platforms**, and **high-performance web systems**.
 
 I’m deeply focused on **software engineering, architecture, performance, clean code, and business-driven solutions**.
 
-I’m also exploring how **Artificial Intelligence** can support software development and help transform ideas into real digital products.
+I’m also exploring **Artificial Intelligence** as a tool to enhance software development and create innovative digital solutions.
 
 ---
 
@@ -24,14 +24,14 @@ I’m also exploring how **Artificial Intelligence** can support software develo
 
 ## 🧠 What I do
 
-- 🏗️ SaaS & scalable systems
-- ⚡ Performance optimization
-- 🧩 Clean architecture & system design
-- 🔐 Secure APIs & authentication
-- 💳 Payments, subscriptions & business logic
+- 💻 Web development & modern applications
+- 🏗️ Software architecture & system design
+- 🚀 SaaS platforms & scalable products
+- ⚡ Performance & code quality
+- 🔐 APIs, security & authentication
+- 💳 Payment systems & business logic
 - 🤖 Artificial Intelligence in software development
-- 📊 Dashboards & analytics
-- 🌐 Web applications & digital products
+- 🌐 Digital products & web solutions
 
 ---
 
@@ -45,7 +45,7 @@ I’m also exploring how **Artificial Intelligence** can support software develo
 
 ### Backend
 
-*Currently developing my backend programming skills and knowledge.*
+*Currently developing my backend programming foundations.*
 
 ### DevOps & Tools
 
@@ -58,10 +58,10 @@ I’m also exploring how **Artificial Intelligence** can support software develo
 
 ## 🚀 Philosophy
 
-> "Great software is built with purpose.
-> Focus on quality, create scalable solutions, and turn ideas into real value."
+> _"Great software is built with purpose.  
+> Focus on quality, build scalable solutions, and turn ideas into real value."_
 
 ---
 
 ⭐ If you like my work, consider starring a repository  
-🤝 Always open to learning, collaborations, partnerships, and cool ideas
+🤝 Always open to collaborations, partnerships, and new ideas
