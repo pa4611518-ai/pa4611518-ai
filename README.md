@@ -1,12 +1,11 @@
-
 # Hi 👋, I'm Paulo
 
 🚀 **Aspiring Software Developer | Software Engineering**  
 🇧🇷 Brazil
 
-I’m focused on building **scalable products**, **SaaS platforms**, and **high-performance web systems**.
+I’m focused on learning to build **scalable products**, **SaaS platforms**, and **high-performance web systems**.
 
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I’m deeply focused on **software engineering, architecture, performance, clean code, and business-driven solutions**.
 
 I’m continuously developing my knowledge of **software development, SaaS, and technology entrepreneurship**.
 
@@ -16,7 +15,7 @@ I’m continuously developing my knowledge of **software development, SaaS, and 
 
 <p align="left">
   <a href="https://github.com/pa4611518-ai">
-    <img src="https://img.shields.io/badge/GitHub-PA4611518--AI-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-PA4611518--AI-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
@@ -24,14 +23,14 @@ I’m continuously developing my knowledge of **software development, SaaS, and 
 
 ## 🧠 What I do
 
-- 🏗️ SaaS & scalable systems
-- ⚡ Performance optimization
-- 🧩 Clean architecture & system design
-- 🔐 Secure APIs & authentication
-- 💳 Payments, subscriptions & business logic
-- 🔄 Automation & integrations
-- 📊 Dashboards & analytics
-- 🌐 Web applications & digital products
+- 🏗️ Learning about SaaS & scalable systems
+- ⚡ Studying performance optimization
+- 🧩 Exploring clean architecture & system design
+- 🔐 Learning APIs, security & authentication
+- 💳 Exploring payments, subscriptions & business logic
+- 🔄 Studying automation & integrations
+- 📊 Exploring dashboards & analytics
+- 🌐 Learning to develop web applications & digital products
 
 ---
 
