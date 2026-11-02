@@ -1,13 +1,14 @@
 
 # Hi 👋, I'm Paulo
 
-🚀 **Aspiring Software Developer | Web Development & Artificial Intelligence**  
+🚀 Aspiring Software Developer | Software Engineering
 🇧🇷 Brazil
 
-I’m learning to build **modern web applications**, **software systems**, and **digital products**.  
-I’m focused on **programming, software engineering, clean code, and problem-solving**.
+I’m working toward building **scalable products**, **SaaS platforms**, and **high-performance web systems**.
 
-I’m also exploring how **Artificial Intelligence** can help create **SaaS platforms, applications, and innovative digital solutions**.
+I’m deeply focused on **software engineering, architecture, performance, clean code, and business-driven solutions**.
+
+I’m also exploring how **Artificial Intelligence** can support software development and help transform ideas into real digital products.
 
 ---
 
@@ -23,13 +24,14 @@ I’m also exploring how **Artificial Intelligence** can help create **SaaS plat
 
 ## 🧠 What I do
 
--   💻 Web development & modern applications
--   🤖 Artificial Intelligence & AI-assisted development
--   🧩 Programming logic & problem-solving
--   🏗️ Software development & system architecture
--   🚀 SaaS platforms & digital products
--   ⚡ Learning through practical projects
--   🌐 Deploying and publishing applications
+- 🏗️ SaaS & scalable systems
+- ⚡ Performance optimization
+- 🧩 Clean architecture & system design
+- 🔐 Secure APIs & authentication
+- 💳 Payments, subscriptions & business logic
+- 🤖 Artificial Intelligence in software development
+- 📊 Dashboards & analytics
+- 🌐 Web applications & digital products
 
 ---
 
@@ -43,7 +45,7 @@ I’m also exploring how **Artificial Intelligence** can help create **SaaS plat
 
 ### Backend
 
-*Currently building programming foundations and learning backend development.*
+*Currently developing my backend programming skills and knowledge.*
 
 ### DevOps & Tools
 
@@ -56,10 +58,10 @@ I’m also exploring how **Artificial Intelligence** can help create **SaaS plat
 
 ## 🚀 Philosophy
 
-> _"Great software starts with learning.  
-> Build with purpose, improve every day, and turn ideas into real solutions."_
+> "Great software is built with purpose.
+> Focus on quality, create scalable solutions, and turn ideas into real value."
 
 ---
 
 ⭐ If you like my work, consider starring a repository  
-🤝 Always open to learning, collaboration, and new ideas
+🤝 Always open to learning, collaborations, partnerships, and cool ideas
