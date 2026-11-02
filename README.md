@@ -1,59 +1,80 @@
 Hi 👋, I'm Paulo
 
-🚀 Software Development Student | AI-Powered Development | Web & Software Projects
+🚀 Aspiring Software Developer | AI-Powered Development | Web & SaaS
 
 🇧🇷 Brazil
 
-I'm passionate about technology and software development. My goal is to build websites, applications, systems, and digital products by combining programming skills with the power of Artificial Intelligence.
+I want to turn ideas into real digital products through programming and Artificial Intelligence.
 
-I'm constantly learning, practicing, and exploring new technologies to improve my development skills and turn ideas into real projects.
+I'm focused on learning software development, building websites, applications, and systems, and understanding how technology can solve real problems.
 
-Where to find me
+My goal is to combine strong programming fundamentals with AI-powered development to create useful and reliable products.
+
+---
+
+🌐 Where to find me
 
 ""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/pa4611518-ai)
 
-What I do
+---
 
-- AI-Powered Development: Exploring how AI can support the development of websites, applications, and software.
-- Web Development: Learning to create modern, responsive, and functional websites.
-- Software Development: Building programming foundations and learning how to develop complete systems.
-- Digital Products: Exploring SaaS platforms, applications, and ideas that can become real products.
-- Continuous Learning: Practicing through personal projects and improving my technical skills.
+🧠 What I do
 
-Tech Stack
+- 💻 Web Development: Learning to build modern and responsive websites.
+- 🤖 AI-Powered Development: Using AI to support the creation of software and digital products.
+- 🧩 Software Development: Developing programming skills and understanding how complete systems work.
+- 🚀 SaaS & Digital Products: Exploring ideas and building solutions with real-world applications.
+- 📚 Continuous Learning: Improving through practice, projects, and new technologies.
+
+---
+
+🛠️ Tech Stack
 
 Frontend
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+""HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" (https://developer.mozilla.org/en-US/docs/Web/HTML)
+""CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" (https://developer.mozilla.org/en-US/docs/Web/CSS)
+""JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 Development Tools
 
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+""VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)" (https://code.visualstudio.com/)
+""Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" (https://git-scm.com/)
+""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/)
 
 Deployment
 
-"Vercel" (https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+""Vercel" (https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)" (https://vercel.com/)
 
-Currently Learning
+---
+
+📚 Currently Learning
 
 - Programming logic and fundamentals
 - HTML, CSS, and JavaScript
-- Software development with AI tools
+- AI-assisted software development
 - Git and GitHub
 - Deploying projects with Vercel
 
-Future Goals
+---
+
+🎯 Future Goals
 
 - Study Software Engineering.
 - Become a skilled software developer.
 - Build complete websites, systems, and applications.
-- Develop useful SaaS platforms and digital products.
-- Combine strong programming knowledge with AI-powered development.
+- Create SaaS platforms and useful digital products.
+- Master programming while exploring the potential of Artificial Intelligence.
 
-My Philosophy
+---
 
-Learn by building. Improve through practice. Turn ideas into real projects.
+🚀 Philosophy
+
+«"Technology turns ideas into possibilities.
+Programming turns those possibilities into real solutions."»
+
+Learn. Build. Improve. Repeat.
+
+---
+
+⭐ Thanks for visiting my profile!
