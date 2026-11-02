@@ -1,6 +1,6 @@
 Paulo
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=190&section=header&text=PAULO&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DESENVOLVIMENTO%20WEB%20%7C%20INTELIG%C3%8ANCIA%20ARTIFICIAL&descAlignY=58&descSize=14" width="100%" />Desenvolvimento Web | Inteligência Artificial | Engenharia de Software
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=190&section=header&text=PAULO&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%7C%20INTELIG%C3%8ANCIA%20ARTIFICIAL&descAlignY=58&descSize=14" width="100%" />Desenvolvimento de Software | Inteligência Artificial | Produtos Digitais
 
 <br/><a href="https://github.com/pa4611518-ai">
   <img src="https://img.shields.io/badge/MEU%20GITHUB-0969DA?style=flat-square&logo=github&logoColor=white" alt="Meu GitHub"/>
@@ -12,36 +12,55 @@ Paulo
 
 01 / SOBRE MIM
 
-Sou estudante e tenho interesse em tecnologia, principalmente na área de desenvolvimento de software.
+Sou estudante de tecnologia e tenho interesse em desenvolvimento de software, inteligência artificial e criação de produtos digitais.
 
-Atualmente, estou aprendendo programação e desenvolvendo meus primeiros projetos. Gosto de entender como os sistemas são construídos, testar ferramentas e descobrir novas maneiras de resolver problemas usando código.
+Quero aprender a desenvolver sites, sistemas e aplicativos utilizando ferramentas de IA, sem deixar de compreender a programação por trás de cada projeto.
 
-Tenho um interesse especial por desenvolvimento web e inteligência artificial. Quero conhecer a área a fundo e construir minha trajetória profissional nesse campo.
+Gosto de explorar novas tecnologias, experimentar ferramentas e transformar ideias em projetos que possam ser utilizados na prática.
 
-02 / TECNOLOGIAS
+02 / ÁREAS DE INTERESSE
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vercel&theme=dark" alt="Tecnologias e ferramentas"/></div>03 / O QUE ESTOU APRENDENDO
+- Desenvolvimento Web: criação de sites, páginas e aplicações web.
+- Inteligência Artificial: utilização de IA para desenvolver, programar e aprimorar projetos.
+- Desenvolvimento de Software: criação de sistemas, aplicativos e soluções digitais.
+- Automação: ferramentas e processos que reduzem tarefas manuais.
+- Produtos Digitais: desenvolvimento de plataformas, ferramentas e sistemas SaaS.
+- Tecnologia: exploração de novas linguagens, frameworks e ferramentas.
 
-- HTML e CSS: criação e estruturação de páginas web.
-- JavaScript: programação e funcionalidades para sites e aplicações.
-- Git e GitHub: organização de código e controle de versões.
-- Visual Studio Code: ambiente de desenvolvimento.
-- Vercel: hospedagem e publicação dos meus projetos.
-- Inteligência artificial: ferramentas e possibilidades de integração com aplicações.
+03 / TECNOLOGIAS E FERRAMENTAS
 
-04 / MEUS PROJETOS
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vercel&theme=dark" alt="Tecnologias e ferramentas"/></div>04 / ESTUDOS E DESENVOLVIMENTO
 
-Aqui compartilho projetos que desenvolvo durante meus estudos e experimentos com programação.
+Atualmente, estou construindo minha base em programação e desenvolvimento web.
 
-Procuro trabalhar em ideias diferentes, aprender novas ferramentas e entender cada etapa do desenvolvimento, desde a primeira linha de código até a aplicação funcionando.
+Meus estudos envolvem:
 
-05 / PLANOS PARA O FUTURO
+- HTML, CSS e JavaScript.
+- Lógica de programação e fundamentos de software.
+- Git e GitHub para controle de versões.
+- Ferramentas de inteligência artificial aplicadas à programação.
+- Desenvolvimento de aplicações e integração com serviços.
+- Publicação e hospedagem de projetos na Vercel.
 
-Pretendo cursar Engenharia de Software e aprofundar meus conhecimentos em programação.
+05 / PROJETOS
 
-Quero trabalhar com desenvolvimento de sites, sistemas e aplicativos, além de explorar a inteligência artificial na criação de novos produtos digitais.
+Utilizo este perfil para compartilhar meus projetos, experiências e aprendizados.
 
-Meu objetivo é construir uma carreira na tecnologia e, principalmente, ter capacidade para desenvolver minhas próprias ideias.
+Tenho interesse em desenvolver:
+
+- Sites institucionais e páginas profissionais.
+- Sistemas web e plataformas digitais.
+- Aplicativos e ferramentas com inteligência artificial.
+- Automações e soluções para problemas do cotidiano.
+- Produtos SaaS e projetos próprios.
+
+06 / OBJETIVOS
+
+Pretendo cursar Engenharia de Software e construir uma carreira na área de tecnologia.
+
+Quero dominar os fundamentos da programação e aprender a utilizar a inteligência artificial como ferramenta de desenvolvimento, criando sites, sistemas e aplicativos cada vez mais completos.
+
+Meu objetivo é ter conhecimento para planejar, desenvolver, testar e publicar meus próprios produtos digitais.
 
 ---
 
@@ -49,6 +68,6 @@ Meu objetivo é construir uma carreira na tecnologia e, principalmente, ter capa
   <img src="https://img.shields.io/badge/CONHE%C3%87A%20MEUS%20PROJETOS-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Conheça meus projetos"/>
 </a><br/><br/>
 
-Paulo | Desenvolvedor em formação
+Paulo | Tecnologia e Desenvolvimento de Software
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00C853&height=110&section=footer" width="100%"/></div>
