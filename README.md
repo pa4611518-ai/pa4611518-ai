@@ -2,7 +2,6 @@
 # Hi 👋, I'm Paulo
 
 🚀 **Aspiring Software Developer | Software Engineering**
-
 🇧🇷 Brazil
 
 I’m working toward building **scalable products**, **SaaS platforms**, and **high-performance web systems**.
